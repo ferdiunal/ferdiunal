@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-First of all, I am a good father and a good husband. I am hardworking, I love coding, I am ambitious and reckless. I like electronics. I have good experience in Web3. I specialize in creating SaaS structures. I also have expertise in Laravel, Filamentphp. On the Node Js side, I have good experience in Fastify, Next Js and Nest Js, EthersJs. Subsequently, I have experience in React Js, Vue Js, EthersJS and Tailwindcss on the front end.
+Besides being a good father and husband to my family, I am a hardworking and disciplined software developer. I love software development and have mastered a number of important technologies. In particular, I have extensive experience with libraries such as **Laravel**, **Filamentphp**, **Node.js**, **Fastify**, **Next.js** and **Tailwind CSS**. I also have expertise in SaaS structures. Recently, I have been developing Web3 based projects in the company I work for.
