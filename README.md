@@ -4,7 +4,7 @@ Besides being a good father and husband to my family, I am a hardworking and dis
 
 
 
-## OTHER NOVA PACKAGES
+## OPEN SOURCE PROJECTS
 
 * [Nova Settings](https://github.com/ferdiunal/nova-settings)
 
