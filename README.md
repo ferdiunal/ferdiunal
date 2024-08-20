@@ -25,7 +25,7 @@ Besides being a good father and husband to my family, I am a hardworking and dis
   
   Utilizing the Laravel Framework and Filament TallKit, a modular CRM application has been developed based on multi-tenancy.
   
-* [refine-admin](https://github.com/ferdiunal/refine-admin) 
+* [refine-shadcn](https://github.com/ferdiunal/refine-shadcn) 
 * [refindev-shadcn-ui](https://github.com/ferdiunal/refinedev-shadcn-ui) [DEPRECATED]
   
   This package is a theme integration for refine.dev built using ui.shadcn.
