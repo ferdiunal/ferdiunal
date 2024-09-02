@@ -6,6 +6,10 @@ Besides being a good father and husband to my family, I am a hardworking and dis
 
 ## OPEN SOURCE PROJECTS
 
+* [Nova Shield](https://github.com/ferdiunal/nova-shield)
+
+    Nova Shield simplifies permission management for your Laravel Nova resources using Spatie Permission. Easily grant or revoke access to specific resources and actions, streamlining your workflow and improving security.
+
 * [Nova Settings](https://github.com/ferdiunal/nova-settings)
 
     This package provides an interface for Spatie's settings package in Laravel Nova. It allows you to easily manage your application's configuration settings.
