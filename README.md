@@ -5,6 +5,9 @@ Besides being a good father and husband to my family, I am a hardworking and dis
 
 
 ## OPEN SOURCE PROJECTS
+* [Nova Editable Field](https://github.com/ferdiunal/nova-editable-field)
+
+    The purpose of this Laravel Nova Field is to allow easy updates to records within tables. So far, I haven't tested it with third-party components. It's very easy to use and can be seamlessly integrated with form fields and BelongsTo fields.
 
 * [Nova Shield](https://github.com/ferdiunal/nova-shield)
 
