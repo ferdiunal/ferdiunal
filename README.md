@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Besides being a good father and husband to my family, I am a hardworking and disciplined software developer. I love software development and have mastered a number of important technologies. In particular, I have extensive experience with libraries such as **Laravel**, **Laravel Nova**, **Filamentphp**, **Node.js**, **Fastify**, **Next.js** and **Tailwind CSS**. I also have expertise in SaaS structures. Recently, I have been developing Web3 based projects in the company I work for.
+I started software development in 2008 with PHP and have since improved my skills in PHP and JavaScript. Over time, I gained experience with other languages like Python and Go, working on hobby projects to expand my knowledge. However, after discovering TypeScript, Node.js, and Laravel, I decided to focus on mastering PHP, JavaScript, and TypeScript while building projects using Node.js, Laravel, Express.js, Fastify, Next.js, and Web3.js.
+
+Although I enjoy back-end development, my curiosity for front-end technologies led me to explore and improve my skills in Alpine.js, jQuery, React.js, Vue.js, Tailwind CSS, and Bootstrap. Additionally, I have experience with blockchain-related front-end technologies such as Ethers.js, Web3.js, and Sign-In with Ethereum (SIWE) authentication.
 
 
 
