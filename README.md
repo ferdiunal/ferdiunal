@@ -7,6 +7,10 @@ Although I enjoy back-end development, my curiosity for front-end technologies l
 
 
 ## OPEN SOURCE PROJECTS
+* [Laravel Translator](https://github.com/ferdiunal/laravel-tratnslator) 🆕 
+  
+    A powerful and flexible translation package for Laravel applications that supports multiple translation services including OpenAI, DeepL, Google Translate, and NLPCloud.
+  
 * [Nova Editable Field](https://github.com/ferdiunal/nova-editable-field)
 
     The purpose of this Laravel Nova Field is to allow easy updates to records within tables. So far, I haven't tested it with third-party components. It's very easy to use and can be seamlessly integrated with form fields and BelongsTo fields.
