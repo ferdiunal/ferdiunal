@@ -7,7 +7,11 @@ Although I enjoy back-end development, my curiosity for front-end technologies l
 
 
 ## OPEN SOURCE PROJECTS
-* [Laravel Translator](https://github.com/ferdiunal/laravel-translator) 🆕 
+* [soketi-rs](https://github.com/ferdiunal/soketi.rs) 🆕 
+
+    High-performance, Pusher-compatible WebSocket server written in Rust with support for public, private, and presence channels
+
+* [Laravel Translator](https://github.com/ferdiunal/laravel-translator)
   
     A powerful and flexible translation package for Laravel applications that supports multiple translation services including OpenAI, DeepL, Google Translate, and NLPCloud.
   
