@@ -19,6 +19,10 @@ Although I enjoy back-end development, my curiosity for front-end technologies l
 
     Panel.go, modern Go teknolojileri ile geliştirilmiş, tam yığınlı (full-stack) web uygulamasıdır. Fiber web framework'ü, PostgreSQL veritabanı ve HTMX tabanlı interaktif kullanıcı arayüzü ile yüksek performanslı ve güvenli bir yönetim paneli sunar.
   
+* [ui-avatar](https://github.com/ferdiunal/ui-avatar)
+
+    https://ui-avatar.com'dan esinlenerek go dilinde yazılmıştır.
+  
 * [kuzgun-chat-app](https://github.com/ferdiunal/kuzgun-chat-app)
 
     Kuzgun, React Native (Expo) ve Go kullanılarak geliştirilmiş bir mobil sohbet uygulamasıdır. Temel mesajlaşma işlevlerinin yanı sıra kullanıcıların çevrimiçi durumlarını takip etme özelliğine sahiptir.
