@@ -10,6 +10,9 @@ Although I enjoy back-end development, my curiosity for front-end technologies l
 * [soketi-rs](https://github.com/ferdiunal/soketi.rs) 🆕 
 
     High-performance, Pusher-compatible WebSocket server written in Rust with support for public, private, and presence channels
+* [kuzgun-chat-backend](https://github.com/ferdiunal/kuzgun-chat-backend)
+
+    Kuzgun chat uygulaması için Go (Golang) ile geliştirilmiş backend servisi. Bu proje; kullanıcı yönetimi, mesajlaşma ve kişi listesi gibi temel fonksiyonları sağlayan bir API sunar.
 
 * [Laravel Translator](https://github.com/ferdiunal/laravel-translator)
   
