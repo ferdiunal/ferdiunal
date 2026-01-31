@@ -15,6 +15,10 @@ Although I enjoy back-end development, my curiosity for front-end technologies l
 
     Kuzgun chat uygulaması için Go (Golang) ile geliştirilmiş backend servisi. Bu proje; kullanıcı yönetimi, mesajlaşma ve kişi listesi gibi temel fonksiyonları sağlayan bir API sunar.
   
+* [panel.go](https://github.com/ferdiunal/panel.go)
+
+    Panel.go, modern Go teknolojileri ile geliştirilmiş, tam yığınlı (full-stack) web uygulamasıdır. Fiber web framework'ü, PostgreSQL veritabanı ve HTMX tabanlı interaktif kullanıcı arayüzü ile yüksek performanslı ve güvenli bir yönetim paneli sunar.
+  
 * [kuzgun-chat-app](https://github.com/ferdiunal/kuzgun-chat-app)
 
     Kuzgun, React Native (Expo) ve Go kullanılarak geliştirilmiş bir mobil sohbet uygulamasıdır. Temel mesajlaşma işlevlerinin yanı sıra kullanıcıların çevrimiçi durumlarını takip etme özelliğine sahiptir.
