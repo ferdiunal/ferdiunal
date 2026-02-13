@@ -17,7 +17,7 @@ Although I enjoy back-end development, my curiosity for front-end technologies l
   
 * [panel.go](https://github.com/ferdiunal/panel.go)
 
-    Panel.go, modern Go teknolojileri ile geliştirilmiş, tam yığınlı (full-stack) web uygulamasıdır. Fiber web framework'ü, PostgreSQL veritabanı ve HTMX tabanlı interaktif kullanıcı arayüzü ile yüksek performanslı ve güvenli bir yönetim paneli sunar.
+    Panel.go, Go (Golang) projelerinizde hızlı, tip güvenli ve yönetilebilir admin panelleri oluşturmanız için tasarlanmış modern bir SDK'dır.
   
 * [ui-avatar](https://github.com/ferdiunal/ui-avatar)
 
